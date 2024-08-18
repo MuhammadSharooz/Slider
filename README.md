@@ -1,0 +1,1 @@
+Visit:  verticalimageslider.surge.sh
