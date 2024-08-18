@@ -1,1 +1,1 @@
-Visit:  verticalimageslider.surge.sh
+Visit:  https://verticalimageslider.surge.sh/
